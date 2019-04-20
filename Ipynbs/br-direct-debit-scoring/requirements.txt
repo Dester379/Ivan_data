@@ -1,9 +1,0 @@
-pymysql
-python-consul
-scipy
-pandas
-sklearn
-aiohttp
-xgboost
-lxml
-openpyxl
